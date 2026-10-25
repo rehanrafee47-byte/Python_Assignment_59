@@ -7,4 +7,4 @@ else:
     while i <= num:
         factorial *= i
         i += 1
-    print("Factorial of", num, "is:", factorial
+    print("Factorial of", num, "is:", factorial)
